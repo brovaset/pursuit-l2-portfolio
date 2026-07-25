@@ -13,18 +13,13 @@ export default function Home() {
 
       <section id="work" className="scroll-mt-20 px-6 sm:px-10 lg:px-16">
         <div className="mx-auto max-w-6xl">
-          <div className="flex flex-col gap-2 border-t border-line pt-10 sm:flex-row sm:items-end sm:justify-between sm:pt-12">
-            <div>
-              <p className="font-mono text-xs uppercase tracking-[0.24em] text-mist">
-                Selected work
-              </p>
-              <h2 className="font-display mt-2 text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-                Projects
-              </h2>
-            </div>
-            <p className="max-w-sm text-sm leading-relaxed text-fog">
-              Four builds — scannable in under two minutes.
+          <div className="border-t border-line pt-10 sm:pt-12">
+            <p className="font-mono text-xs uppercase tracking-[0.24em] text-mist">
+              Selected work
             </p>
+            <h2 className="font-display mt-2 text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
+              Projects
+            </h2>
           </div>
 
           {cycles.map((project, index) => (
