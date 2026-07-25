@@ -1,6 +1,6 @@
 # Adedoyin Ahoton — Build Log
 
-I’m a developer who learns by shipping — each cycle I pick a real problem, build a working project end-to-end, and write down what broke along the way. I like tools that save time or make messy data easier to reason about, and I’d rather have four scrappy, functioning builds than one polished thing that never ships. These four cycles were built working through pairs and as part of a team, so a lot of what I learned came from splitting up problems, reviewing each other’s code, and figuring out how to ship together — not just solo.
+I’m a builder who learns by shipping — each cycle I pick a real problem, build a working project end-to-end, and write down what broke along the way. I like tools that save time or make messy data easier to reason about, and I’d rather have four scrappy, functioning builds than one polished thing that never ships. These four cycles were built working through pairs and as part of a team, so a lot of what I learned came from splitting up problems, reviewing each other’s code, and figuring out how to ship together — not just solo.
 
 This repo tracks that progress, cycle by cycle.
 
