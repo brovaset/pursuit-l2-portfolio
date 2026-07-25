@@ -17,7 +17,7 @@ export type Cycle = {
 
 export const siteCopy = {
   name: "Adedoyin Ahoton",
-  brandLabel: "Builder",
+  brandLabel: "AI Builder / AI Product Engineer",
   heroThesis:
     "I learn by shipping — real problems, end-to-end builds, and notes on what broke along the way.",
   intro: [
