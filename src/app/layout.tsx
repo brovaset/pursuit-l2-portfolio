@@ -21,9 +21,9 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Adedoyin Ahoton — Build Log",
+  title: "Adedoyin Ahoton — Portfolio",
   description:
-    "A cycle-by-cycle portfolio of shipped builds — Slack Clone, AdScale AI, AccountPulse, and PopEngine.",
+    "Portfolio of shipped builds — Slack Clone, AdScale AI, AccountPulse, and PopEngine.",
 };
 
 export default function RootLayout({

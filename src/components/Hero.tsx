@@ -29,7 +29,10 @@ export function Hero() {
   };
 
   return (
-    <section className="relative flex min-h-[100svh] flex-col justify-end overflow-hidden px-6 pb-16 pt-28 sm:px-10 sm:pb-24 lg:px-16">
+    <section
+      id="top"
+      className="relative flex min-h-[85svh] flex-col justify-end overflow-hidden px-6 pb-12 pt-24 sm:px-10 sm:pb-16 lg:px-16"
+    >
       <div
         className="pointer-events-none absolute inset-0"
         aria-hidden="true"
@@ -47,7 +50,7 @@ export function Hero() {
       >
         <motion.p
           variants={item}
-          className="font-mono mb-6 text-xs uppercase tracking-[0.28em] text-lime sm:text-sm"
+          className="font-mono mb-4 text-xs uppercase tracking-[0.28em] text-lime sm:text-sm"
         >
           {siteCopy.brandLabel}
         </motion.p>
@@ -61,27 +64,26 @@ export function Hero() {
 
         <motion.p
           variants={item}
-          className="mt-8 max-w-xl text-lg leading-relaxed text-fog sm:text-xl"
+          className="mt-5 max-w-xl text-lg leading-relaxed text-fog sm:text-xl"
         >
           {siteCopy.heroThesis}
         </motion.p>
 
         <motion.div
           variants={item}
-          className="mt-10 flex flex-wrap items-center gap-4"
+          className="mt-7 flex flex-wrap items-center gap-3"
         >
           <a
-            href="#cycles"
+            href="#work"
             className="inline-flex items-center justify-center bg-lime px-6 py-3 font-medium text-ink transition-colors hover:bg-lime-dim"
           >
-            View cycles
+            View work
           </a>
           <a
-            href={siteCopy.pdfPath}
-            download
+            href="#contact"
             className="inline-flex items-center justify-center border border-line px-6 py-3 font-medium text-fog transition-colors hover:border-lime/40 hover:text-lime"
           >
-            Download build log
+            Get in touch
           </a>
         </motion.div>
       </motion.div>
