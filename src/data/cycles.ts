@@ -110,7 +110,7 @@ export const cycles: Cycle[] = [
     id: "popengine",
     number: 4,
     title: "PopEngine",
-    status: "In progress",
+    status: "Shipped",
     role: "NYC permit planner",
     summary:
       "Questionnaire in, source-cited permit plan out — feasibility verdict, deadlines, and portal links for NYC events.",

@@ -9,7 +9,7 @@ This repo tracks that progress, cycle by cycle.
 | 1 | [Slack Clone](https://github.com/brovaset/Slack-Clone) | Shipped | [README](./builds/01-slack-clone/README.md) |
 | 2 | [AdScale AI](https://github.com/brovaset/AdScale) | Shipped | [README](./builds/02-adscale-ai/README.md) |
 | 3 | [AccountPulse](https://github.com/brovaset/AccountPulse) | In progress | [README](./builds/03-accountpulse/README.md) |
-| 4 | [PopEngine](https://github.com/jzeng151/pop-engine) | In progress | [README](./builds/04-popengine/README.md) |
+| 4 | [PopEngine](https://github.com/jzeng151/pop-engine) | Shipped | [README](./builds/04-popengine/README.md) |
 
 ---
 
@@ -95,7 +95,7 @@ This repo tracks that progress, cycle by cycle.
 
 ## Cycle 4 — [PopEngine](https://github.com/jzeng151/pop-engine)
 
-**Status:** In progress
+**Status:** Shipped
 
 **Problem:** Independent NYC event organizers have to navigate a permit maze spread across at least seven different agencies (SAPO, Parks, NYPD, DOT, FDNY, DOB, Health), each with its own portal, lead time, and fee structure. A single event that touches a sidewalk, serves food, and plays music can trigger four separate permits with lead times ranging from 5 days to over a year out, and nothing tells the organizer up front which permits apply or whether their date is even feasible. Right now the only real alternatives are hiring a production agency (priced for brand activations, not independents) or piecing it together from static blog guides that can’t evaluate a specific event.
 
