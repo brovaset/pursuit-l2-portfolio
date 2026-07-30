@@ -124,5 +124,6 @@ export const cycles: Cycle[] = [
       "Rules stored as versioned data, not hardcoded logic",
     ],
     stack: ["Next.js", "Express", "PostgreSQL", "Twilio"],
+    liveDemo: "https://web-production-9deb4.up.railway.app",
   },
 ];

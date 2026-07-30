@@ -1,7 +1,8 @@
 # Cycle 4 — PopEngine
 
 **Status:** In progress  
-**Repo:** https://github.com/jzeng151/pop-engine
+**Repo:** https://github.com/jzeng151/pop-engine  
+**Live demo:** https://web-production-9deb4.up.railway.app
 
 ## Problem
 
@@ -33,7 +34,7 @@ React / Next.js (frontend), Node.js / Express (backend), PostgreSQL (including a
 
 ## Screenshot / live link
 
-*[placeholder — add a screenshot of the organizer UI or the gated demo link]*
+Live demo: https://web-production-9deb4.up.railway.app
 
 Drop a screenshot into this folder as `screenshot.png` and reference it here when ready:
 
