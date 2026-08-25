@@ -1,7 +1,8 @@
 # Cycle 3 — AccountPulse
 
 **Status:** In progress  
-**Repo:** https://github.com/brovaset/AccountPulse
+**Repo:** https://github.com/brovaset/AccountPulse  
+**Live demo:** https://accountpulse.streamlit.app/
 
 ## Problem
 
@@ -27,6 +28,8 @@ AccountPulse is an AI agent for Customer Success Managers that identifies at-ris
 Python, Streamlit, pytest, uv (dependency/env management); mock + live integrations with HubSpot, PostHog, Zendesk, Gmail
 
 ## Screenshot / live link
+
+Live demo: https://accountpulse.streamlit.app/
 
 AccountPulse UI — account selection and health review. Choosing an account and running an on-demand health review or a morning briefing across the assigned book.
 

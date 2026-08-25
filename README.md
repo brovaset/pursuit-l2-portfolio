@@ -83,6 +83,8 @@ This repo tracks that progress, cycle by cycle.
 
 **Stack:** Python, Streamlit, pytest, uv (dependency/env management); mock + live integrations with HubSpot, PostHog, Zendesk, Gmail
 
+**Live demo:** https://accountpulse.streamlit.app/
+
 **Screenshot:**
 
 ![AccountPulse UI](./builds/03-accountpulse/screenshot.png)

@@ -102,6 +102,7 @@ export const cycles: Cycle[] = [
       "Streamlit UI for reviews and morning briefings",
     ],
     stack: ["Python", "Streamlit", "HubSpot", "PostHog", "Zendesk"],
+    liveDemo: "https://accountpulse.streamlit.app/",
     screenshot: "/accountpulse-screenshot.png",
     screenshotAlt:
       "AccountPulse UI — account selection and health review with CRM, usage, support, and comms signals",
