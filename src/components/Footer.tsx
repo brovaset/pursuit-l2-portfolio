@@ -23,14 +23,20 @@ export function Footer() {
           </p>
           <p className="mt-3 max-w-md text-base leading-relaxed text-fog">
             Open to roles where shipping real products matters. Browse the work
-            above, or reach out on GitHub or LinkedIn.
+            above, or reach out by email, GitHub, or LinkedIn.
           </p>
           <div className="mt-5 flex flex-wrap gap-3">
+            <a
+              href={`mailto:${siteCopy.email}`}
+              className="inline-flex items-center justify-center bg-lime px-5 py-3 text-sm font-medium text-ink transition-colors hover:bg-lime-dim"
+            >
+              {siteCopy.email}
+            </a>
             <a
               href={siteCopy.github}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center bg-lime px-5 py-3 text-sm font-medium text-ink transition-colors hover:bg-lime-dim"
+              className="inline-flex items-center justify-center border border-line px-5 py-3 text-sm font-medium text-fog transition-colors hover:border-lime/40 hover:text-lime"
             >
               GitHub
             </a>

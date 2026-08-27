@@ -27,6 +27,7 @@ export const siteCopy = {
   ],
   lastUpdated: "July 25, 2026",
   pdfPath: "/README.pdf",
+  email: "adedoyin.ahoton@pursuit.org",
   github: "https://github.com/brovaset",
   linkedin: "https://www.linkedin.com/in/adedoyin-ahoton-38b428227/",
 } as const;
