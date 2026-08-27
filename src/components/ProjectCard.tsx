@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { motion, useReducedMotion } from "framer-motion";
 import type { Cycle } from "@/data/cycles";
 
@@ -56,18 +55,6 @@ export function ProjectCard({ project, index }: ProjectCardProps) {
         <p className="mt-2 text-base leading-relaxed text-fog sm:text-lg">
           {project.summary}
         </p>
-
-        {project.screenshot && (
-          <div className="relative mt-5 aspect-[16/10] overflow-hidden bg-ink-elevated">
-            <Image
-              src={project.screenshot}
-              alt={project.screenshotAlt ?? `${project.title} screenshot`}
-              fill
-              className="object-cover object-top"
-              sizes="(max-width: 768px) 100vw, 672px"
-            />
-          </div>
-        )}
 
         <ul className="mt-4 space-y-1.5">
           {highlights.map((item) => (

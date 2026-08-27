@@ -27,13 +27,9 @@ AccountPulse is an AI agent for Customer Success Managers that identifies at-ris
 
 Python, Streamlit, pytest, uv (dependency/env management); mock + live integrations with HubSpot, PostHog, Zendesk, Gmail
 
-## Screenshot / live link
+## Live demo
 
-Live demo: https://accountpulse.streamlit.app/
-
-AccountPulse UI — account selection and health review. Choosing an account and running an on-demand health review or a morning briefing across the assigned book.
-
-![AccountPulse UI](./screenshot.png)
+https://accountpulse.streamlit.app/
 
 ## Built with
 

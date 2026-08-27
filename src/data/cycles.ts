@@ -11,8 +11,6 @@ export type Cycle = {
   features: string[];
   stack: string[];
   liveDemo?: string;
-  screenshot?: string;
-  screenshotAlt?: string;
 };
 
 export const siteCopy = {
@@ -104,9 +102,6 @@ export const cycles: Cycle[] = [
     ],
     stack: ["Python", "Streamlit", "HubSpot", "PostHog", "Zendesk"],
     liveDemo: "https://accountpulse.streamlit.app/",
-    screenshot: "/accountpulse-screenshot.png",
-    screenshotAlt:
-      "AccountPulse UI — account selection and health review with CRM, usage, support, and comms signals",
   },
   {
     id: "popengine",
@@ -127,8 +122,5 @@ export const cycles: Cycle[] = [
     ],
     stack: ["Next.js", "Express", "PostgreSQL", "Twilio"],
     liveDemo: "https://web-production-9deb4.up.railway.app",
-    screenshot: "/popengine-screenshot.png",
-    screenshotAlt:
-      "PopEngine landing page — NYC Event Organizer Field Guide with Describe your event CTA",
   },
 ];

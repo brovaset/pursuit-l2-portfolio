@@ -32,13 +32,9 @@ App-less QR check-in and a live ops dashboard for event day (Phase 1.5 stretch g
 
 React / Next.js (frontend), Node.js / Express (backend), PostgreSQL (including a dedicated rules table), Twilio for SMS deadline alerts. Rules are stored as versioned data (conditions → findings) rather than hardcoded logic, so updates to NYC permit requirements are data changes, not code changes.
 
-## Screenshot / live link
+## Live demo
 
-Live demo: https://web-production-9deb4.up.railway.app
-
-PopEngine landing page — NYC Event Organizer Field Guide with a Describe your event CTA and the Ideate, Comply, Market, Operate flow.
-
-![PopEngine organizer UI](./screenshot.png)
+https://web-production-9deb4.up.railway.app
 
 ## Built with
 
