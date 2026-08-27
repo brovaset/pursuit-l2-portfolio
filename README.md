@@ -116,7 +116,11 @@ This repo tracks that progress, cycle by cycle.
 
 **Stack:** React / Next.js (frontend), Node.js / Express (backend), PostgreSQL (including a dedicated rules table), Twilio for SMS deadline alerts. Rules are stored as versioned data (conditions → findings) rather than hardcoded logic, so updates to NYC permit requirements are data changes, not code changes.
 
-**Screenshot / live link:** https://web-production-9deb4.up.railway.app
+**Live demo:** https://web-production-9deb4.up.railway.app
+
+**Screenshot:**
+
+![PopEngine organizer UI](./builds/04-popengine/screenshot.png)
 
 **Built with:** a four-person team — Naquan McKune, Jason Zeng, Adedoyin Ahoton, and Bo Moldenhauer
 

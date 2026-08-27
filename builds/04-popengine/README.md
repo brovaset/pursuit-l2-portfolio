@@ -36,11 +36,9 @@ React / Next.js (frontend), Node.js / Express (backend), PostgreSQL (including a
 
 Live demo: https://web-production-9deb4.up.railway.app
 
-Drop a screenshot into this folder as `screenshot.png` and reference it here when ready:
+PopEngine landing page — NYC Event Organizer Field Guide with a Describe your event CTA and the Ideate, Comply, Market, Operate flow.
 
-```md
 ![PopEngine organizer UI](./screenshot.png)
-```
 
 ## Built with
 

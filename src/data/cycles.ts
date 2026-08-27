@@ -127,5 +127,8 @@ export const cycles: Cycle[] = [
     ],
     stack: ["Next.js", "Express", "PostgreSQL", "Twilio"],
     liveDemo: "https://web-production-9deb4.up.railway.app",
+    screenshot: "/popengine-screenshot.png",
+    screenshotAlt:
+      "PopEngine landing page — NYC Event Organizer Field Guide with Describe your event CTA",
   },
 ];
